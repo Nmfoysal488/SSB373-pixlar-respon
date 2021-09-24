@@ -1,0 +1,193 @@
+
+
+@media(max-width:991px){
+    .btn_join{
+        display: none;
+    }
+    .large_btn_join{
+        display: inherit;
+    }
+
+}
+@media (max-width:767px) and (min-width:576px) {
+    
+}
+
+@media (max-width:767px) {
+    
+    .top-header{
+        display: none;
+    }
+        .iphone6 img{
+        display: none;
+    }
+}
+
+@media (max-width:575px ) {
+    .instruction-item{
+        margin: 15px 0px;
+    }
+    .service-item {
+    margin: 15px 0;
+    }
+
+    .features_section h1{
+        /* margin-left: 30px; */
+        text-align: center;
+    }
+    .features_section span {
+        margin: auto;
+    }
+
+    .features_section ul li {
+        margin: 30px;
+    }
+
+    .box {
+        height: 45px;
+    }
+    .chart-section img {
+        width: 21%;
+    }
+    .safe {
+     
+        top: 10%;
+        left: 20%;
+        transform: translate(-55%, -2%);
+    }
+    .phone {
+     
+        top: 49%;
+        left: 20%;
+        transform: translate(-55%, -38%);
+    }
+    .Wallet {
+
+        left: 20%;
+        bottom: 15%;
+        transform: translate(-55%, 33%);
+    }
+    .support {
+    
+top: 10%;
+    
+right: 4%;
+    
+/* transform: translate(-15%, -1%); */
+    }
+
+    .exchange {
+  
+top: 45%;
+  
+left: 62%;
+  
+transform: translate(-1, -20%);
+  
+}
+    .Buys {
+   
+top: 56%;
+   
+right: -4%;
+   
+transform: translate(-87%, 46%);
+}
+    .fist{
+        margin-bottom: 40px;
+    }
+    .second{
+        margin-bottom: 40px;
+    }
+    .third{
+        margin-bottom: 40px;
+    }
+    .fourth{
+        margin-bottom: 40px;
+    }
+    .div p {
+        text-align: center;
+    }
+
+    .blog .coin {
+        margin-bottom: 25px;
+    }
+    .right ul {
+
+        margin: 0;
+        padding: 0;
+    }
+
+    .form_section form input {
+
+        margin-bottom: 16px;
+    }
+    .input-icon {
+        transform: translate(30px, -45px);
+    }
+
+
+
+
+
+}
+@media (max-width:515px) and (min-width:320px) {
+    .icon {
+        width: 32px;
+        height: 31px;
+        line-height: 23px;
+        border-radius: 2px;
+        /* transform: translate(10px, 10px); */
+    }
+    .safe p, .phone p, .Wallet p, .support p, .exchange p, .Buys p {
+        margin-top: 4px;
+        font-size: 13px;
+    }
+    .safe .icon i {
+        font-size: 15px;
+    }
+    .phone .icon i {
+        font-size: 15px;
+    }
+    .Wallet .icon i {
+        font-size: 14px;
+    }
+
+    .support {
+        top: 10%;
+        left: 85%;
+    }
+    .support .icon i {
+        font-size: 15px;
+    }
+    .exchange {
+        top: 47%;
+        left: 60%;
+    }
+    .exchange .icon i {
+        font-size: 15px;
+    }
+    .Buys {
+        top: 59%;
+        left: 88%;
+    }
+    .Buys .icon i {
+        font-size: 15px;
+    }
+    .box {
+        height: 31px;
+        width: 47px;
+    }
+
+
+
+}
+
+@media (max-width:375px) {
+    .box {
+        height: 29px;
+    }
+    
+}
+
+
